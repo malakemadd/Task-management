@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI_Content\\Web_API\\TaskManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|d:\\iti_content\\web_api\\taskmanagment\\taskmanagment\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|solutionrelative:taskmanagment\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|d:\\iti_content\\web_api\\taskmanagment\\taskmanagment\\models\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|solutionrelative:taskmanagment\\models\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|d:\\iti_content\\web_api\\taskmanagment\\taskmanagment\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|solutionrelative:taskmanagment\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|d:\\iti_content\\web_api\\taskmanagment\\taskmanagment\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|solutionrelative:taskmanagment\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|d:\\iti_content\\web_api\\taskmanagment\\taskmanagment\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|solutionrelative:taskmanagment\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|d:\\iti_content\\web_api\\taskmanagment\\taskmanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|solutionrelative:taskmanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|d:\\iti_content\\web_api\\taskmanagment\\taskmanagment\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|solutionrelative:taskmanagment\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|d:\\iti_content\\web_api\\taskmanagment\\taskmanagment\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|solutionrelative:taskmanagment\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|d:\\iti_content\\web_api\\taskmanagment\\taskmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|solutionrelative:taskmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|d:\\iti_content\\web_api\\taskmanagment\\taskmanagment\\reposervices\\taskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|solutionrelative:taskmanagment\\reposervices\\taskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|d:\\iti_content\\web_api\\taskmanagment\\taskmanagment\\ireposervices\\itaskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|solutionrelative:taskmanagment\\ireposervices\\itaskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|d:\\iti_content\\web_api\\taskmanagment\\taskmanagment\\migrations\\20250314181445_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060D1921-A682-4C14-B997-243DC975A131}|TaskManagment\\TaskManagment.csproj|solutionrelative:taskmanagment\\migrations\\20250314181445_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "TaskManagment\\Models\\AppUser.cs",
+              "ToolTip": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\Models\\AppUser.cs",
+              "RelativeToolTip": "TaskManagment\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T22:44:30.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskManagment\\Controllers\\TasksController.cs",
+              "ToolTip": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskManagment\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:57:10.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TaskManagment\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TaskManagment\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:15:35.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "TaskManagment\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "TaskManagment\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:13:05.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskDBContext.cs",
+              "DocumentMoniker": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\Models\\TaskDBContext.cs",
+              "RelativeDocumentMoniker": "TaskManagment\\Models\\TaskDBContext.cs",
+              "ToolTip": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\Models\\TaskDBContext.cs",
+              "RelativeToolTip": "TaskManagment\\Models\\TaskDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:35:04.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "TaskManagment\\Models\\Tasks.cs",
+              "ToolTip": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\Models\\Tasks.cs",
+              "RelativeToolTip": "TaskManagment\\Models\\Tasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:51:49.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITaskServices.cs",
+              "DocumentMoniker": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\IRepoServices\\ITaskServices.cs",
+              "RelativeDocumentMoniker": "TaskManagment\\IRepoServices\\ITaskServices.cs",
+              "ToolTip": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\IRepoServices\\ITaskServices.cs",
+              "RelativeToolTip": "TaskManagment\\IRepoServices\\ITaskServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:32:33.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagment\\appsettings.json",
+              "ToolTip": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\appsettings.json",
+              "RelativeToolTip": "TaskManagment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T18:00:35.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagment\\Program.cs",
+              "ToolTip": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\Program.cs",
+              "RelativeToolTip": "TaskManagment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:04:11.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "TaskManagment\\DTO\\RegisterDTO.cs",
+              "ToolTip": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "TaskManagment\\DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:36:25.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskServices.cs",
+              "DocumentMoniker": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\RepoServices\\TaskServices.cs",
+              "RelativeDocumentMoniker": "TaskManagment\\RepoServices\\TaskServices.cs",
+              "ToolTip": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\RepoServices\\TaskServices.cs",
+              "RelativeToolTip": "TaskManagment\\RepoServices\\TaskServices.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:55:40.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250314181445_v2.cs",
+              "DocumentMoniker": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\Migrations\\20250314181445_v2.cs",
+              "RelativeDocumentMoniker": "TaskManagment\\Migrations\\20250314181445_v2.cs",
+              "ToolTip": "D:\\ITI_Content\\Web_API\\TaskManagment\\TaskManagment\\Migrations\\20250314181445_v2.cs",
+              "RelativeToolTip": "TaskManagment\\Migrations\\20250314181445_v2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:14:45.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

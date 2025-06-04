@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "d9NFMmSAJ0NP+DBRFmsxFSJKwLHbej7gtWiBeM85fFc=",
+  "Source": "TaskManagment",
+  "BasePath": "_content/TaskManagment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
